@@ -210,12 +210,14 @@ streamlit run main.py
 - All code, data, and results are organized for easy navigation.
 - The Streamlit app provides a modern, interactive user experience.
 - The project is ready for further improvements and deployment.
+- Regarding the codes, you can change the print statements in all codes to English or any language you prefer. Alternatively, you can copy the code to DeepSeek, ChatGPT, or Copilot and request that it converts any print statements to your desired language, whether it's in the notebook codes, app.py, build.py, ...etc.
 
 **العربية:**
 - المشروع ثنائي اللغة بالكامل (عربي/إنجليزي) لسهولة الوصول لجميع المستخدمين.
 - جميع الأكواد والبيانات والنتائج منظمة لسهولة التصفح.
 - تطبيق Streamlit يوفر تجربة مستخدم حديثة وتفاعلية.
 - المشروع جاهز لمزيد من التحسينات أو النشر مستقبلاً.
+-بخصوص الأكواد، يمكنك تغيير عبارات print في جميع الأكواد إلى الإنجليزية أو أي لغة تفضلها. بدلاً من ذلك، يمكنك نسخ الكود إلى (ديب سيك - DeepSeek) أو (شات جي بي تي - ChatGPT) أو (كوبايلوت - Copilot) وطلب تحويل أي عبارة print إلى اللغة التي تريدها، سواء في أكواد notebooks أو ملفات app.py أو build.py ... إلخ. 
 
 ---
 
@@ -238,3 +240,4 @@ streamlit run main.py
 "# language-detector" 
 "# language-detector" 
 "# language-detector" 
+
