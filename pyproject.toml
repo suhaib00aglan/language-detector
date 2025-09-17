@@ -1,0 +1,23 @@
+[project]
+name = "project"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Suhaib Abdullah Ahmed Almalhani", email = "shyba103@gmail.com)"},
+]
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "matplotlib",
+    "jupyter",
+    "streamlit",
+    "PyQt5",
+]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "mtt"}
+
+
+[tool.pdm]
+distribution = false
