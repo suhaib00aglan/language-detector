@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+.DS_Store
+build/
+dist/
+*.spec
+.env
+.env.*
+.ipynb_checkpoints/
+.idea/
+.vscode/
+# Data and model files
+/data/*.csv
+/models/*.pkl
+# OS files
+Thumbs.db
